@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 
+Marjana here 👋  
+
+I explore **how we see, feel, and interpret visuals** —  
+through animation, color, and experimental code.
+
+🎨 Animation & visual design  
+🧠 Perception & neuro-inspired ideas  
+💻 Creative coding & projects
 
 <!--
 **marjanamdad-svg/marjanamdad-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
