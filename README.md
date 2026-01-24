@@ -5,6 +5,9 @@ I explore **how we see, feel, and interpret visuals** —
 through animation, color, and experimental code.
 
 🎨 Animation & visual design  
+
+![0124](https://github.com/user-attachments/assets/c21d947b-c4e3-455d-8eb1-7bd968512064)
+
 🧠 Perception & neuro-inspired ideas  
 💻 Creative coding & projects
 
